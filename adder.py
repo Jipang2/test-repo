@@ -1,3 +1,3 @@
-def adder(a, b):
+def add(a, b):
     return a + b
-print(adder(3,4))
+print(add(3,4))
